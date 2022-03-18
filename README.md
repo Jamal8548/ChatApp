@@ -10,6 +10,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #Dashboard of Chat
 ![Chat](https://user-images.githubusercontent.com/57535574/159046365-4b73a905-0292-4d53-8ee9-1377a18f6be2.PNG)
 
+#Right Sidebar with all the user details and snaps exchanged into the chat.
+
+
+![sidebar](https://user-images.githubusercontent.com/57535574/159046985-f9e2311d-1120-4f99-b29b-e318557325a4.png)
 
 
 ## Available Scripts
